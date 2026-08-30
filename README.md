@@ -27,7 +27,7 @@ This mod allows you to record your flight's telemetry data and state precisely s
 ### **Installation** 
 ---
 
-Download the zip file from the latest release and extract it. Move the FlightRecorder folder in Gamedata/FlightRecorder to you KSP's Gamedata directory.
+Download the zip file from the latest release and extract it. Move the FlightRecorder folder in Gamedata/FlightRecorder to your KSP's Gamedata directory.
 
 **Dependencies:** Harmony is a dependency. You can install it from CKAN or [from github](https://github.com/KSPModdingLibs/HarmonyKSP/releases/tag/2.2.1.0).
 
