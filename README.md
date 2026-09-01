@@ -22,6 +22,7 @@ This mod allows you to record your flight's telemetry data and state precisely s
 - Next to the main four buttons shows whether you want your world's time to be reverted to the recording's initial time upon playing it or not. The other one's whether you want the GUI to be opened by clicking F7 or not. You can still access the UI from the toolbar.
 - You can go to any time of the recording by dragging the yellow needle through the recording as shown above.
 - As seen above, telemetry consists of speed, altitude, and G-force data.
+
 **Note:** To pan the camera after pausing, press F2.
 
 ---
