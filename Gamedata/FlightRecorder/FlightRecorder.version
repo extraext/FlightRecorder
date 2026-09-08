@@ -1,7 +1,7 @@
 {
   "NAME": "FlightRecorder",
-  "URL": "",
-  "DOWNLOAD": "",
+  "URL": "https://raw.githubusercontent.com/extraext/FlightRecorder/main/Gamedata/FlightRecorder/FlightRecorder.version",
+  "DOWNLOAD": "https://spacedock.info/mod/4521/FlightRecorder",
   "VERSION": {
     "MAJOR": 1,
     "MINOR": 0,
